@@ -14,5 +14,7 @@
 <p align="center">
     <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 -->
-    <a href="https://github.com/hassanelsheikha"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanelsheikha&theme=dark&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/hassanelsheikha"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hassanelsheikha&show_icons=true&theme=radical"></a>
 </p>
+
+
