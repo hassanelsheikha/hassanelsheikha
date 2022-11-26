@@ -9,11 +9,6 @@
 <br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=hassanelsheikha&color=grey">
-<!---
-</p>
-<p align="center">
-    <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/drknzz?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
--->
     <a href="https://github.com/hassanelsheikha"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hassanelsheikha&show_icons=true&theme=radical"></a>
 </p>
 
